@@ -16,10 +16,7 @@ body{
   color: var(--clr-ttl);
   background-color: var(--bg-main);
 }
-h1{
-  position: absolute;
-  opacity: 0;
-}
+
 :root{
   --barlow: 'Barlow Semi Condensed', sans-serif;
   --violet: 263, 55%, 52%;
